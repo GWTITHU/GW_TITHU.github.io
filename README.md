@@ -1,2 +1,2 @@
 ## [GwT Docs](https://GWTITHU.github.io/)
-1. Decorators - [Preview](https://theuserge.github.io/decorators)
+1. About - [Preview](https://theuserge.github.io/about)
