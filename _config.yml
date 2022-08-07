@@ -1,0 +1,14 @@
+title: Userge Docs
+url: https://theuserge.github.io/
+description: The complete documentation of Userge
+theme: jekyll-theme-cayman
+syntax_theme: https://stylishthemes.github.io/Syntax-Themes/pygments/css-github/pygments-monokai.css
+buttons:
+      btn1_url: https://github.com/UsergeTeam/Userge
+      btn1_title: Main Repository
+      btn2_url: https://github.com/UsergeTeam/Userge-Plugins
+      btn2_title: Plugins Repository
+      btn3_url: https://t.me/theUserge
+      btn3_title: Updates Channel
+      btn4_url: https://t.me/UsergeOT
+      btn4_title: Support Group
