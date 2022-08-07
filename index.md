@@ -1,1 +1,2 @@
 ## ABOUT
+*NAME ~ Tithij Aryan
